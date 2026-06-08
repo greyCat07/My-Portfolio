@@ -66,9 +66,9 @@ export const EXPERIENCE_DATA: ExperienceItem[] = [
   {
     id: 'exp-2',
     company: 'LeeSunHwa Co., Ltd.',
-    role: 'Design & Video Studio Professional',
+    role: 'Freelance Design & Video Studio Professional',
     period: 'Jun 2024 - May 2025',
-    location: 'Remote / Manila, Philippines',
+    location: 'Remote / Gangseo District, Seoul, South Korea',
     description: 'Contributed to high-quality visual outputs, blending creative design principles with technical execution in a fast-paced studio environment.'
   },
   {
@@ -76,7 +76,7 @@ export const EXPERIENCE_DATA: ExperienceItem[] = [
     company: 'Lamina Studios LLC',
     role: 'Cybersecurity Intern',
     period: 'Mar 2024 - Jun 2024',
-    location: 'Manila, Philippines · Hybrid',
+    location: 'Washington, United States · Remote',
     description: 'Gained practical experience in threat analysis, security protocols, and safeguarding digital infrastructure within a tech-forward studio setting.'
   },
   {
